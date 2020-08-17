@@ -52,5 +52,3 @@ script:
    - cp $TRAVIS_BUILD_DIR/.build.sh build.sh
    - chmod +x build.sh
    - ./build.sh
-   - echo "Testing Y-branches.."
-   - ${TRAVIS_BUILD_DIR}/travis_root/ug4/bin/ugshell -call "create_branches_from_swc(\"$TRAVIS_BUILD_DIR/grids/Y_angle=90.0.swc\", 0.5, 0)"
