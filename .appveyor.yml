@@ -35,5 +35,5 @@ build_script:
   - git clone https://github.com/NeuroBox3D/neuromorpho
   - cd neuromorpho
   - mkdir TestCell
-  - python get_swc.py --name 44-4
-  - ..\Release\ugshell.exe -call "test_import_swc_and_regularize_var(\"44-4.CNG.swc\")"
+  - python get_swc.py --name 37-4a
+  - ..\Release\ugshell.exe -call "test_import_swc_and_regularize_var(\"37-4a.CNG.swc\")"
