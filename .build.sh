@@ -2,6 +2,7 @@
 ## add good working cells here
 cells=(37-4a)
 
+echo "Testing non-VR use-case grids..."
 ## create meshes 
 for i in "${cells[@]}"; do
   mkdir -p TestCell/${i}.CNG
