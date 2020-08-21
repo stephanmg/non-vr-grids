@@ -6,7 +6,7 @@ arr=(0-2a_original)
 
 # function to check exit status
 function check_exit() {
-    if [ $1 -eq 0 ]; then
+    if [ "$1" -eq 0 ]; then
       echo " successful."
     else
       echo " failed!"
