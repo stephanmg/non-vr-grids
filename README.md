@@ -2,6 +2,7 @@
 
 Tools for generating 3D meshes (.ugx) from 1D linear graphs (.swc) of neuronal morphologies stored in the *NeuroMorpho.org* database.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b90c3cdcf3e545a68a6bc5ec39f52c67)](https://app.codacy.com/manual/stephan_5/non-vr-grids?utm_source=github.com&utm_medium=referral&utm_content=stephanmg/non-vr-grids&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status Linux](https://travis-ci.org/stephanmg/non-vr-grids.svg?branch=development)](https://travis-ci.org/stephanmg/non-vr-grids)
 [![Build Status OSX](https://travis-ci.org/stephanmg/non-vr-grids.svg?branch=development)](https://travis-ci.org/stephanmg/non-vr-grids)
 [![Build status Windows](https://ci.appveyor.com/api/projects/status/or23w3hgfqxc89is?svg=true)](https://ci.appveyor.com/project/stephanmg/non-vr-grids)
