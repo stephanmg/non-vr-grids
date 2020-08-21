@@ -21,4 +21,4 @@ If the last two conditions (4.-5.) are violated the user will be issued a warnin
 Nevertheless in the last step from 2d surface mesh to a 3D Delaunay tetrahedralized volume mesh A) the triangulation with [Tetgen](https://github.com/ufz/tetgen) might fail as well as well as B) the generation of a grid hierarchy might fail. The user will be issued an error message indicating the nature of the problem which is of type A or B.
 
 ## Mesh generation scripts
-The script `build.sh` shall be used for generation of these meshes with a soma connection and `build_y.sh` for generation of meshes from [Y-branch generator](https://github.com/stephanmg/Branch-Generator).
+The script `build.sh` shall be used for generation of these meshes with a soma connection and `build_y.sh` for generation of meshes from input 1D SWC files generated via [Y-branch generator](https://github.com/stephanmg/Branch-Generator) as well as for meshes which do not require a soma.
