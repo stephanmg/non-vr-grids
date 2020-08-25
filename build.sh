@@ -26,7 +26,7 @@ do
    check_exit $?
 
    echo "Regularizing... "
-   ../../bin/ugshell -call "test_import_swc_and_regularize_var(\"${i}.swc\")"
+   ../../bin/ugshell -call "test_import_swc_and_regularize_var(\"${i}.swc\", 1.0)"
    check_exit $?
 
    echo "Grid generation..."
