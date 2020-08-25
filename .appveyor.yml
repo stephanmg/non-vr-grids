@@ -36,4 +36,4 @@ build_script:
   - cd neuromorpho
   - mkdir TestCell
   - python get_swc.py --name 37-4a
-  - ..\Release\ugshell.exe -call "test_import_swc_and_regularize_var(\"37-4a.CNG.swc\")"
+  - ..\Release\ugshell.exe -call "test_import_swc_and_regularize_var(\"37-4a.CNG.swc\", 1.0)"
