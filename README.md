@@ -6,6 +6,9 @@ Tools for generating 3D meshes (.ugx) from 1D linear graphs (.swc) of neuronal m
 [![Build Status Linux](https://travis-ci.org/stephanmg/non-vr-grids.svg?branch=development)](https://travis-ci.org/stephanmg/non-vr-grids)
 [![Build Status OSX](https://travis-ci.org/stephanmg/non-vr-grids.svg?branch=development)](https://travis-ci.org/stephanmg/non-vr-grids)
 [![Build status Windows](https://ci.appveyor.com/api/projects/status/or23w3hgfqxc89is?svg=true)](https://ci.appveyor.com/project/stephanmg/non-vr-grids)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
+
 
 ## Requirements
 
